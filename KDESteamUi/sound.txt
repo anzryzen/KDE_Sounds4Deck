@@ -1,0 +1,31 @@
+deck_ui_achievement_toast.wav - KDE_Event_2.ogg
+deck_ui_bumper_end_02.wav - KDE_Event_5.ogg 
+deck_ui_default_activation.wav - KDE_Window_Shade_Up.ogg 
+deck_ui_hide_modal.wav -  Oxygen-Window-All-Desktops-NOT.ogg 
+deck_ui_into_game_detail.wav - KDE_Window_UnHide 
+deck_ui_launch_game.wav - ZorinOS Startup.Wav  
+deck_ui_misc_10.wav - toggled.wav
+ deck_ui_navigation.wav - Same as last probably
+deck_ui_out_of_game_detail.wav - KDE_Window_Hide 
+deck_ui_show_modal.wav - Oxygen-Window-All-Desktops.ogg 
+deck_ui_side_menu_fly_in.wav - KDE_Dialog_Appear.wav
+deck_ui_side_menu_fly_out.wav KDE_Dialog_Disappear.wav
+deck_ui_slider_down.wav - Oxygen_Window_Maximize 
+deck_ui_slider_up.wav - Oxygen_Window_Minimize
+deck_ui_switch_toggle_off.wav - KDE_Click_ 2
+deck_ui_switch_toggle_on.wav - KDE_Click_1 
+deck_ui_tab_transition_01.wav - KDE_Window_Sticky
+deck_ui_toast.wav - KDE_Notify.wav 
+deck_ui_typing.wav - KDE_Keyboard_Key_1.ogg 
+deck_ui_volume.wav- audio-volume-change.oga
+steam_at_mention.m4a - Kopete_Event.ogg 
+steam_chatroom_notification.m4a - same
+10:58 PM 3/23/2.m4a - Kopete_Recieved.ogg 
+ui_steam_smoother_friend_join.m4a - KDE_Desktop_3 
+ui_steam_smoother_friend_online.m4a - KDE_Event_4.ogg
+
+
+
+
+
+ 
