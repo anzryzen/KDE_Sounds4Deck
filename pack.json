@@ -1,10 +1,12 @@
 {
-  "name": "Cinematic Tale - Persona Q2",
-  "description": "Persona Q2 Cinematic Tale 3DS Theme",
-  "author": "arsonust",
+  "name": "KDE Sounds",
+  "description": "Sounds that can be found through KDE Verisons 2.0 - 4.0 and a GTK sound",
+  "author": "anzryzen",
   "version": "v1.0",
   "manifest_version": 2,
-  "music": true,
-  "ignore": [],
-  "mappings": {}
+  "music": false,
+  "ignore": [ ],
+  "mappings": {
+	" deck_ui_navigation.wav": [KDESteamUI/deck_ui_misc_10"]
+	}
 }
