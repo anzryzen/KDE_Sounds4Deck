@@ -7,6 +7,6 @@
   "music": false,
   "ignore": [ ],
   "mappings": {
-	" deck_ui_navigation.wav": ["deck_ui_misc_10"]
+	" deck_ui_navigation.wav": ["deck_ui_misc_10.wav"]
 	}
 }
