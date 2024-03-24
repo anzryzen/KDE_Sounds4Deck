@@ -1,11 +1,1 @@
-{
-  "name": "KDE Sounds",
-  "description": "Sounds that can be found through KDE Verisons 2.0 - 4.0 and a GTK sound",
-  "author": "anzryzen",
-  "version": "v1.0",
-  "manifest_version": 2,
-  "music": false,
-  "ignore": [ ],
-  "mappings": {
-	" deck_ui_navigation.wav": [KDESteamUI/deck_ui_misc_10"] }
-}
+
